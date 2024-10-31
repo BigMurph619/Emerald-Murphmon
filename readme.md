@@ -1,4 +1,4 @@
-# Murphmon Rules
+# Emerald Murphmon Rules
 
 Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
 
@@ -7,13 +7,13 @@ Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
 # Core Game Rules
 
 You must only use 1 Pokemon for all fights and encounters except double battles unless otherwise denoted.  
-I.e. [**“Brock Buddy” rule.**](#specific-game-rules)
+I.e. [**“Brawley Buddy” rule.**](#specific-game-rules)
 
 Permadeath: If your primary Pokemon faints, the game is over.
 
 No Shopping: **Except for any type of Pokeball or Repel.**
 
-You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC, no use of stores.
+You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC.
 
 Select 3 “Favorites” prior to each run. These Pokemon are subject to the 555 BST or under rule.
 
@@ -22,24 +22,24 @@ Stolen Items: You may not keep stolen items from wild pokemon with moves like Th
 
 You may not intentionally kill a wild Pokemon for EXP unless game progression requires you to do so, depicted in a specific game rule [(refer to rule 3)](#specific-game-rules) or it is a Shiny Pokemon.
 
-No Redos: You may not re-fight trainers at any point using the VS Seeker or other means. You may not abuse respawning items by picking them up more than once
+No Redos: You may not re-fight trainers at any point using the VS Seeker or other means (See rule __ for Camera Crew). You may not abuse respawning items by picking them up more than once
 
-No HM Moves on your primary Pokemon. You may use HM moves during double battles with your second Pokemon (FRLG).
+No HM Moves on your primary Pokemon.
 
 You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit.
 You may not use healing stations in Dungeons.
-You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms including Dojo, clear needed game progress elsewhere).
+You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms clear needed game progress elsewhere).
 **You may return to a Dungeon once with your Safari Pivot.**
 
 ---
 
-> Note: All caves are dungeons except on Sevii Islands. 
+> Note: All caves are dungeons except Rusturf Tunnel and Fiery Path. You may also re-enter Trick House Freely.
 
 |  **Dungeons** |
 | :-----------: |
 |All Gyms       |
-|Lavender Tower |
-|Rocket Hideout |
+|Soda Pop Shack |
+|Mt. Chimney While Team Magma is Present |
 |Silph co       |
 |Pokemon Mansion|
 |SS Anne        |
@@ -202,8 +202,6 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Super Kaizo IronMON
  - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
- - [kelseyyoung](https://kelseyyoung.github.io/FRLGIronmonMap/) FRLG Interactive Map
- - [kipoterp](https://ibb.co/c3BLXZP) Sevii Islands Map
  - [kelseyyoung](https://kelseyyoung.github.io/EmeraldIronmonMap/) RSE Interactive Map
 
 ### [Top](#murphmon-rules) | [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules)
