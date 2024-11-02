@@ -89,7 +89,9 @@ All shinies are free catches or kills.
 
 Use a 60% level boost to Foe and Wild Pokemon instead of 50%. The Randomizer program has a hard limit of 50%, thus a workaround is required to reach 60%:
 First load the vanilla Emerald ROM (or patched ROM) and apply this settings string:
+
 321AAgEAQT8AP8AAgEEAAEeRAABFAAAFABABAABAAAAAAAAAAAAuAS4AQAICTIGBAAyAAIAC0VtZXJhbGQgKFUpunJmsePDOIo=
+
 Click "Randomize (Save)". This is your new "Source ROM"
 Now you have a ROM ready to use the Murphmon setting strings below
 Load the "Source ROM" from step 2 into the randomizer, then load the Murphmon string below
@@ -164,35 +166,24 @@ If you prefer [rnqs file](https://github.com/BigMurph619/Murphmon/blob/e610a14a5
 
 7. You must fight Brawley before traveling north of Slateport
 
-8. You must beat Lt. Surge before entering Rock Tunnel.
+8. You may fight the trainers in the Soda Shack but you may NOT obtain the Sodas.
 
-9. SS Anne EXP and item farming is allowed (Treat this as a dungeon).
-
-10. You must beat Erika before waking up Snorlax.
-
-11. You must pivot to a new Pokemon that has not progressed you through the game yet from the Safari Zone (Brock Buddy is eligible for pivoting so long as it was not one of your Mons that progressed you through the game in another capacity). You may catch up to 6 Safari Zone pivot options.
+11. You must pivot to a new Pokemon that has not progressed you through the game yet from the Safari Zone (Brawl Buddy is eligible for pivoting so long as it was not one of your Mons that progressed you through the game in another capacity). You may catch up to 6 Safari Zone pivot options.
     - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). -If you evolve an illegal mon into a legal one with a stone or rare candy that counts as 1 pivot still. You may not level up an illegal mon on trainers.
     - You may catch 1 free pivot of each of your favorites (additional catches count towards your 6 pivot catches).
     - All shinies are free catches
     - You may only level up each Pokemon once before committing to a pivot.
     - You may only get 2 of same mon as an option (Favorites/shinies/illegal mons do not count towards these 2)
-    -You may create save states to retry catching encounters or “catch and stow” potential options before committing to them to save time. If you see any of the Pokemon’s stats (including its HP within your party), it automatically counts as one of your catches.
+    - You may create save states to retry catching encounters or “catch and stow” potential options before committing to them to save time. If you see any of the Pokemon’s stats (including its HP within your party), it automatically counts as one of your catches.
 
-12. You must beat Koga and the remainder of the game with your Safari Zone pivot.
+12. You must pivot prior to beating Winona, Maxie in Magma Hideout, and entering Aqua Hideout.
 
-13. You must beat Sabrina before entering the Pokemon Mansion.
+13. You must bring your pre-Safari pivot into Gym 7 against Tate & Liza. If it somehow dies before the gym leader fight, you can revive it by depositing the pre-Safari pivot in your PC then withdrawing it. You may not attack or heal your second mon but there are no restrictions on abilities.
 
-14. Sevii islands are treated as "overworld". All items allowed, all exp allowed, etc. 
-    - You may return to Sevii islands at any point. 
-    - You may use a second HM friend for Rock Smash as needed.
-
-15. Double battles: 
-    - You may use any legal second mon you have already caught. 
-    - You may attack freely with the second mon and it may hold legal held items. 
-    - You may only have 2 Pokemon in your party.
+15. Double battles: You may NOT attack with your second Pokemon. All abilities, however, are allowed.
 
 16. All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. 
-    - Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon. 
+    - Purchased/gifted mon's items are not allowed i.e. Weather Institute Castform. 
     - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
 
 # Credits/Useful Links
@@ -201,4 +192,4 @@ If you prefer [rnqs file](https://github.com/BigMurph619/Murphmon/blob/e610a14a5
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/EmeraldIronmonMap/) RSE Interactive Map
 
-### [Top](#murphmon-rules) | [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules)
+### [Top](#murphmon-rules) | [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Emerald Specifics Rules](#specific-game-rules)
