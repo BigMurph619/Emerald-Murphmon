@@ -2,7 +2,7 @@
 
 Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
 
-### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [FRLG Specifics Rules](#specific-game-rules) | [Credits](#Credits)
+### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [RSE Specifics Rules](#specific-game-rules) | [Credits](#Credits)
 
 # Core Game Rules
 
