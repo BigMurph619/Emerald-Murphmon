@@ -27,7 +27,7 @@ No Redos: You may not re-fight trainers at any point using the VS Seeker or othe
 No HM Moves on your primary Pokemon.
 
 You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit.
-You may not use healing stations in Dungeons. Exceptions: Weather institute and Route 11 rest house so long as you are not poisoned and have sufficient repels to make it to the Pokemon Center. This is simply for quality of life during the mid game.
+You may not use healing stations in Dungeons. Exceptions: Weather institute (after clearing Team Aqua) and Route 11 rest house so long as you are not poisoned and have sufficient repels to make it to the Pokemon Center. This is simply for quality of life during the mid game.
 You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms clear needed game progress elsewhere).
 **You may return to a Dungeon once with your Safari Pivot.**
 
@@ -159,7 +159,7 @@ If you prefer [rnqs file](https://github.com/BigMurph619/Murphmon/blob/e610a14a5
 
 5. All hidden items are allowed.
 
-6. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. - **No HMs.**
+6. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed EXCEPT from the Battle Frontier. - **No HMs.**
     - You may only relearn Sketch once from the move relearner.
     - You may use Sketch multiple times if you receive the move in any other capacity.
     - You are allowed to throw balls to scout. BUT, if you accidentally catch a mon while Sketch scouting you must release it and not take its item. You may use flutes so long as they don't impact the battle (i.e. wake up sleep, cure confuse, etc.) to scout moves for Sketch.
@@ -180,11 +180,15 @@ If you prefer [rnqs file](https://github.com/BigMurph619/Murphmon/blob/e610a14a5
 
 13. You must bring your pre-Safari pivot into Gym 7 against Tate & Liza. If it somehow dies before the gym leader fight, you can revive it by depositing the pre-Safari pivot in your PC then withdrawing it. You may not attack or heal your second mon but there are no restrictions on abilities.
 
-15. Double battles: You may NOT attack with your second Pokemon. All abilities, however, are allowed.
+15. Double battles: You may NOT attack with your second Pokemon. All abilities, however, are allowed. You may fight the camera crew once per location.
 
 16. All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. 
     - Purchased/gifted mon's items are not allowed i.e. Weather Institute Castform. 
     - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
+   
+17. You may use the lotto once in hopes of a PP UP
+
+18. Trainer Hill is banned.
 
 # Credits/Useful Links
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Super Kaizo IronMON
