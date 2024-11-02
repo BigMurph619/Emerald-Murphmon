@@ -176,9 +176,11 @@ If you prefer [rnqs file](https://github.com/BigMurph619/Murphmon/blob/e610a14a5
     - You may only get 2 of same mon as an option (Favorites/shinies/illegal mons do not count towards these 2)
     - You may create save states to retry catching encounters or “catch and stow” potential options before committing to them to save time. If you see any of the Pokemon’s stats (including its HP within your party), it automatically counts as one of your catches.
 
-12. You must pivot prior to beating Winona, Maxie in Magma Hideout, and entering Aqua Hideout.
+12. You must pivot prior to beating Winona, Lillycove Rival, Maxie in Magma Hideout, and entering Aqua Hideout.
 
-13. You must bring your pre-Safari pivot into Gym 7 against Tate & Liza. If it somehow dies before the gym leader fight, you can revive it by depositing the pre-Safari pivot in your PC then withdrawing it. You may not attack or heal your second mon but there are no restrictions on abilities.
+13. You must defeat the Lilycove Rival prior to entering Mt. Pyre.
+
+14. You must bring your pre-Safari pivot into Gym 7 against Tate & Liza. If it somehow dies before the gym leader fight, you can revive it by depositing the pre-Safari pivot in your PC then withdrawing it. You may not attack or heal your second mon but there are no restrictions on abilities.
 
 15. Double battles: You may NOT attack with your second Pokemon. All abilities, however, are allowed. You may fight the camera crew once per location.
 
@@ -189,6 +191,8 @@ If you prefer [rnqs file](https://github.com/BigMurph619/Murphmon/blob/e610a14a5
 17. You may use the lotto once in hopes of a PP UP
 
 18. Trainer Hill is banned.
+
+19. You must defeat Steven after the E4 to beat Murphmon. Goodluck Challenger.
 
 # Credits/Useful Links
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Super Kaizo IronMON
