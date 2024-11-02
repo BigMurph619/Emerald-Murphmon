@@ -27,29 +27,24 @@ No Redos: You may not re-fight trainers at any point using the VS Seeker or othe
 No HM Moves on your primary Pokemon.
 
 You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit.
-You may not use healing stations in Dungeons.
+You may not use healing stations in Dungeons. Exceptions: Weather institute and Route 11 rest house so long as you are not poisoned and have sufficient repels to make it to the Pokemon Center. This is simply for quality of life during the mid game.
 You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms clear needed game progress elsewhere).
 **You may return to a Dungeon once with your Safari Pivot.**
 
 ---
 
-> Note: All caves are dungeons except Rusturf Tunnel and Fiery Path. You may also re-enter Trick House Freely.
+> Note: All caves may be re-entered at ANY time unless listed below. You may also re-enter Trick House Freely.
 
 |  **Dungeons** |
 | :-----------: |
 |All Gyms       |
 |Soda Pop Shack |
 |Mt. Chimney While Team Magma is Present |
-|Silph co       |
-|Pokemon Mansion|
-|SS Anne        |
-| :-----------: |
-|     Caves     |
-| :-----------: |
-|Mt. Moon       |
-|Diglett Cave   |
-|Rock Tunnel    |
-|Seafoam Islands|
+|Weather Institute |
+|Mt. Pyre (You may go outside to the top once as is needed for game progression)|
+|Magma Hideout  |
+|Aqua Hideout   |
+|Aqua Hideout 2 |
 |Victory Road   |
 
 > You may not enter Lavender Tower until you have the Silph Scope and are ready to rescue Fuji
