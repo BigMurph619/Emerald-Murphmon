@@ -7,7 +7,7 @@ Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
 # Core Game Rules
 
 You must only use 1 Pokemon for all fights and encounters except double battles unless otherwise denoted.  
-I.e. [**“Brawley Buddy” rule.**](#specific-game-rules)
+I.e. [**“Brawl Buddy” rule.**](#specific-game-rules)
 
 Permadeath: If your primary Pokemon faints, the game is over.
 
@@ -44,14 +44,10 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 |Mt. Pyre (You may go outside to the top once as is needed for game progression)|
 |Magma Hideout  |
 |Aqua Hideout   |
+|Space Center   |
+|Abandoned Ship |
 |Aqua Hideout 2 |
 |Victory Road   |
-
-> You may not enter Lavender Tower until you have the Silph Scope and are ready to rescue Fuji
-
-> Rocket Hideout Includes the Game Corner
-
->You must obtain HM01 Cut before leaving SS Anne, fight order is your choice
 
 >Forests are NOT dungeons
 
@@ -65,35 +61,43 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 # Banned Abilities:
 
-`Battle Armor / Shell Armor`.
+`Battle Armor / Shell Armor / Pure Power / Huge Powerr`.
 
 **NOTE:** Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Pickup is allowed only if you do not keep pickup items. Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
 
 # Banned Moves:
 
-`Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)** NOTE: Moves that damage heal like Giga Drain are allowed
+`Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)** NOTE: Moves that damage AND heal like Giga Drain are allowed.
 
 **Note:** Both `Spore & Assist` are banned
 
 **NOTE:** You are allowed to use a banned move either through **Transform, metronome or after copying it using Mimic or Mirror Move.**
 
-Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses (Gym Leaders and Pokemon League).
+Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl, Belly Drum` etc. cannot be used on bosses (Gym Leaders and Pokemon League).
 
 # Other General Rules
 
 No healing outside of battle: PP, Health, or Status. You may use Rare Candy, PP UP, or PP MAX.
 
-You **DO NOT** have to let your Pokemon Evolve
+You **DO NOT** have to let your Pokemon Evolve.
 
-You may only hold consumable held items
+You may only hold consumable held items.
 
 All shinies are free catches or kills.
 
 # Settings
 
+Use a 60% level boost to Foe and Wild Pokemon instead of 50%. The Randomizer program has a hard limit of 50%, thus a workaround is required to reach 60%:
+First load the vanilla Emerald ROM (or patched ROM) and apply this settings string:
+321AAgEAQT8AP8AAgEEAAEeRAABFAAAFABABAABAAAAAAAAAAAAuAS4AQAICTIGBAAyAAIAC0VtZXJhbGQgKFUpunJmsePDOIo=
+Click "Randomize (Save)". This is your new "Source ROM"
+Now you have a ROM ready to use the Murphmon setting strings below
+Load the "Source ROM" from step 2 into the randomizer, then load the Murphmon string below
+Randomize (Save). You're ready to play.
+
 Randomize the game. 
 
-All Pokémon, movesets, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by 50%. 
+All Pokémon, movesets, and items are randomized.
 
 All Pokemon must have Fluctuating Growth Rates. 
 
@@ -101,7 +105,7 @@ All opponents must have Smart AI(requires patch or SmartAI randomizer).
 
 ALL opponents must have sensible and consumable held items. 
 
-All move tutors, TMs, and items must be randomized. 
+All move tutors and TMs must be randomized. 
 
 Static Pokémon MUST NOT have level increase. 
 
@@ -113,19 +117,17 @@ All Boss trainers must have 6 Pokemon.
 
 Catch Rate set to "4"
 
-**Note:** Ensure you set your battle style to “Shift” in game for Pewter Gym fights for best value.
+**Note:** Ensure you set your battle style to “Shift” in game for Dewford Gym fights for best value.
 
-**Note:** Return battle style to “Set” after Brock fight to avoid accidental illegal swapping.
+**Note:** Return battle style to “Set” after Brawley fight to avoid accidental illegal swapping.
 
-# FRLG Murphmon Settings String
+# RSE Murphmon Settings String
 
 ```bash
-321WRIEEjIBAAQABwCRAAKeBhsESQEACQACCQAuEgAAAAAABRi45ATkAYgICTIGBAIyHwUYEEZpcmUgUmVkIChVKSAxLjGToHDj48M4ig==
+INSERT SETTINGS STRING HERE and update linked rnqs
 ```
 
 If you prefer [rnqs file](https://github.com/BigMurph619/Murphmon/blob/e610a14a5c60a1e8b3fce344f5a23746b2c388ea/FRLG%20Murphmon%20Settings%20String.rnqs)
-
-These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#fire-red--leaf-green)
 
 [Java](https://www.java.com/en/download/manual.jsp)
 
@@ -133,34 +135,34 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
 
 # Specific Game Rules
 
-1. You may pick any mon you want in the lab that is 555 BST or lower. You may keep its held item. **No legendaries allowed.** If you evolve into a Pokemon that is over 555 BST, you may use that Pokemon so long as it aligns with Ability rules.
+1. You may pick any mon you want in the bag that is 555 BST or lower. You may keep its held item. **No legendaries allowed.** If you evolve into a Pokemon that is over 555 BST, you may use that Pokemon so long as it aligns with Ability rules.
 
-2. All items are allowed in the lab.
+2. All items and moves are allowed in the initial wild fight AND rival fight.
 
 3. Pivoting:
-    - You may catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. You may keep items held by Pokemon. 
-    - You must pivot before the first trainer fight after the lab. You may NOT pivot again until the Safari Zone. 
-    - You may receive EXP from 1 wild mon prior to fighting the first trainer but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. 
+    - You may catch up to 3 total unique mons from any area prior to the Aqua Grunt in the forest (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and bag mon. You may keep items held by these Pokemon. 
+    - You must pivot before the Aqua Grunt in the forest. You may fight trainers freely prior to the Aqua Grunt. You may NOT pivot again until the Safari Zone. 
+    - You may receive EXP from 1 wild mon prior to fighting the Aqua Grunt but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. 
     - You may use any Mon at the front of your party until you lock in your pivot. (If a mon dies of poison outside of battle AND you have another Pokemon in your party the run may continue but the poisoned Pokemon is Permadead)
     - You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. 
     - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon).
 
-4. "Brock Buddy": 
-    - You may catch a second Pokemon to fight with in the Pewter City Gym only 
-    - This must be the first Pokemon you encounter on the route 2 Grass AFTER Viridian Forest. 
+4. "Brawl Buddy": 
+    - You may catch a second Pokemon to fight with in the Dewford City Gym only 
+    - This must be the first Pokemon you encounter in Dewford Cave. 
     - There are no restrictions[Illegal abilities/BSTs allowed]. 
     - Catch the first encounter or bust. 
-    - Brock Buddy may faint but your primary Pokemon cannot. 
-    - You may use Brockbuddy to lead fights, multiple swaps, or any way you see fit **EXCEPT using illegal moves.**
+    - Brawlbuddy may faint but your primary Pokemon cannot. 
+    - You may use Brawlbuddy to lead fights, multiple swaps, or any way you see fit **EXCEPT using illegal moves.**
 
-5. All hidden items are allowed. You may only obtain step items once each.
+5. All hidden items are allowed.
 
-6. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed (i.e. mega punch/kick guys after mt. Moon). - **No HMs.**
+6. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. - **No HMs.**
     - You may only relearn Sketch once from the move relearner.
     - You may use Sketch multiple times if you receive the move in any other capacity.
     - You are allowed to throw balls to scout. BUT, if you accidentally catch a mon while Sketch scouting you must release it and not take its item. You may use flutes so long as they don't impact the battle (i.e. wake up sleep, cure confuse, etc.) to scout moves for Sketch.
 
-7. You must beat Misty before “Dig” Rocket.
+7. You must fight Brawley before traveling north of Slateport
 
 8. You must beat Lt. Surge before entering Rock Tunnel.
 
