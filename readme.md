@@ -159,7 +159,7 @@ If you prefer [rnqs file](https://github.com/BigMurph619/Murphmon/blob/e610a14a5
 
 5. All hidden items are allowed.
 
-6. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed EXCEPT from the Battle Frontier. - **No HMs.**
+6. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. - **No HMs.**
     - You may only relearn Sketch once from the move relearner.
     - You may use Sketch multiple times if you receive the move in any other capacity.
     - You are allowed to throw balls to scout. BUT, if you accidentally catch a mon while Sketch scouting you must release it and not take its item. You may use flutes so long as they don't impact the battle (i.e. wake up sleep, cure confuse, etc.) to scout moves for Sketch.
