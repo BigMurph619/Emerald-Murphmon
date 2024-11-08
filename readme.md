@@ -195,5 +195,6 @@ Catch Rate set to "4"
  - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/EmeraldIronmonMap/) RSE Interactive Map
+ - [Safari Guide](https://docs.google.com/spreadsheets/d/1iDE-pEUebkSfIt_KW6akQ_eo5cOkBn28DXpdqOUJPO0/edit?usp=sharing)
 
 ### [Top](#murphmon-rules) | [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Emerald Specifics Rules](#specific-game-rules)
