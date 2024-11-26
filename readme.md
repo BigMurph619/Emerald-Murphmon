@@ -27,7 +27,7 @@ No Redos: You may not re-fight trainers at any point using the VS Seeker or othe
 No HM Moves on your primary Pokemon.
 
 You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit.
-You may not use healing stations in Dungeons. Exceptions: Weather institute (after clearing Team Aqua) and Route 11 rest house so long as you are not poisoned and have sufficient repels to make it to the Pokemon Center. This is simply for quality of life during the mid game.
+You may not use healing stations in Dungeons. Exceptions: Weather institute after clearing Team Aqua is no longer a dungeon. Route 11 rest house is always allowed.
 You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms clear needed game progress elsewhere).
 **You may return to a Dungeon once with your Safari Pivot.**
 
