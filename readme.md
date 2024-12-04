@@ -188,7 +188,7 @@ Catch Rate set to "4"
 
 18. Trainer Hill is banned. SS Anne is allowed.
 
-19. You must defeat Steven after the E4 to beat Murphmon. ANYTHING GOES. ALL moves, held items, X items, etc. Goodluck Challenger.
+19. You must defeat Steven after the E4 to beat Murphmon. ALL moves (except HMs), held items, X items, etc. are allowed for this fight. Goodluck Challenger.
 
 # Credits/Useful Links
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Super Kaizo IronMON
