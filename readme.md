@@ -99,6 +99,8 @@ Randomize (Save). You're ready to play.
 
 Randomize the game. 
 
+Settings string notes:
+
 All Pokémon, movesets, and items are randomized.
 
 All Pokemon must have Fluctuating Growth Rates. 
@@ -156,13 +158,15 @@ Catch Rate set to "4"
 5. All hidden items are allowed.
 
 6. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. - **No HMs.**
+    - You may catch one grass Pokemon if you do not have one to obtain TM19 south of Mt. Pyre.
+    - You may catch one low base friendship Pokemon to receive TM21 in Pacifidlog.
     - You may only relearn Sketch once from the move relearner.
     - You may use Sketch multiple times if you receive the move in any other capacity.
     - You are allowed to throw balls to scout. BUT, if you accidentally catch a mon while Sketch scouting you must release it and not take its item. You may use flutes so long as they don't impact the battle (i.e. wake up sleep, cure confuse, etc.) to scout moves for Sketch.
 
-7. You must fight Brawley before traveling north of Slateport
+8. You must fight Brawley before traveling north of Slateport
 
-8. You may fight the trainers in the Soda Shack but you may NOT obtain the Sodas.
+9. You may fight the trainers in the Soda Shack but you may NOT obtain the Sodas.
 
 11. You must pivot to a new Pokemon that has not progressed you through the game yet from the Safari Zone (Brawl Buddy is eligible for pivoting so long as it was not one of your Mons that progressed you through the game in another capacity). You may catch up to 6 Safari Zone pivot options.
     - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). -If you evolve an illegal mon into a legal one with a stone or rare candy that counts as 1 pivot still. You may not level up an illegal mon on trainers.
