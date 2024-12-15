@@ -142,7 +142,7 @@ Catch Rate set to "4"
 3. Pivoting:
     - You may catch up to 3 total unique mons from any area prior to the Aqua Grunt in the forest (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and bag mon. You may keep items held by these Pokemon. 
     - You must pivot before the Aqua Grunt in the forest. You may fight trainers freely prior to the Aqua Grunt. You may NOT pivot again until the Safari Zone. 
-    - You may receive EXP from 1 wild mon prior to fighting the Aqua Grunt but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. 
+    - You may receive EXP from 1 wild mon prior to fighting the Aqua Grunt but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. You may NOT catch any other Pokemon for their items or info after receving EXP from a wild.
     - You may use any Mon at the front of your party until you lock in your pivot. (If a mon dies of poison outside of battle AND you have another Pokemon in your party the run may continue but the poisoned Pokemon is Permadead)
     - You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. 
     - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). You may catch until you find one without illegal ability (if there is one).
