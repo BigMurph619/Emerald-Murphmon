@@ -180,7 +180,7 @@ Catch Rate set to "4"
 
 13. You must defeat the Lilycove Rival prior to entering Mt. Pyre.
 
-14. You must bring your pre-Safari pivot into Gym 7 against Tate & Liza. If it somehow dies before the gym leader fight, you can revive it by depositing the pre-Safari pivot in your PC then withdrawing it. You may not attack or heal your second mon but there are no restrictions on abilities.
+14. You must bring your pre-Safari pivot into Gym 7 against Tate & Liza. If it somehow dies before the gym leader fight, you can revive it by depositing the pre-Safari pivot in your PC then withdrawing it. You may not use moves or heals during the second mon's turn but there are no restrictions on abilities.
 
 15. Double battles: You may NOT attack with your second Pokemon. All abilities, however, are allowed. You may fight the camera crew once per location. Avoid bringing additional Pokemon into Doubles Battles by forgetting/re-learning HM moves as needed. There should be no need for more than 2 Pokemon in your party at any time.
 
